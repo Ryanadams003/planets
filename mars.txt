@@ -2,3 +2,4 @@ Mars is red.
 The planet is really dusty.
 The planet is oxidizing and that is why it is red.
 Why didn't this pull
+Now it worked! Had to close mars.txt and reopen
